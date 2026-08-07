@@ -1,0 +1,6 @@
+{
+  "name": "Cafe Mexicano",
+  "description": "Pagina web moderna y elegante para Cafeteria y Cafe Artesanal Mexicano",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
