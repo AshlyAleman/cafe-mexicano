@@ -16,10 +16,10 @@ export const CoffeeTypes: React.FC<CoffeeTypesProps> = ({
   const [searchQuery, setSearchQuery] = useState<string>('');
 
   const categories = [
-    { id: 'todos', label: 'Todos los Cafes' },
+    { id: 'todos', label: 'Todos los Cafés' },
     { id: 'tradicional', label: 'Tradicional (de Olla)' },
-    { id: 'espresso', label: 'Espressos y Cappuccinos' },
-    { id: 'frio', label: 'Bebidas Frias y Cold Brew' },
+    { id: 'espresso', label: 'Espressos & Cappuccinos' },
+    { id: 'frio', label: 'Bebidas Frías & Cold Brew' },
     { id: 'especialidad', label: 'Especialidad & Vainilla' },
   ];
 
